@@ -1,1 +1,1 @@
-# rubin
+Learn and apply the Rubin Causal Model in minutes—definitions, interactive math, assumption diagnostics, and causal effect estimation (matching, PS/IPW, doubly robust, regression) in a clean Streamlit UI.created by Dr Merwan Roudane
